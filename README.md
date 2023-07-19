@@ -1,0 +1,3 @@
+# appli
+This is my firt application whith PHP. <br>
+in this execice, i learned how work Superglobals ($_SESSION, $_GET, $POST ...) and some function like isset(), unset(), exit(), en more...
